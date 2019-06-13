@@ -38,5 +38,3 @@ email: dudhagarakrunal@gmail.com
 
 mobile no: 7777926792
 
-
-https://www.youtube.com/watch?v=sggbk2ES8DM
