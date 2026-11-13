@@ -1,7 +1,4 @@
 OWNERDOMAIN=krunaldkh7.github.io
-# Google AdMob (app versions before 1.0.1)
-google.com, pub-3792779328473568, DIRECT, f08c47fec0942fa0
-# Unity Ads / Unity LevelPlay
 ironsrc.com, 700751, DIRECT
 unity.com, 5940158, DIRECT, 96cabb5fbdde37a7
 adwmg.com, 159512, RESELLER, c9688a22012618e7
@@ -166,3 +163,5 @@ xandr.com, 17779, RESELLER
 xandr.com, 7353, RESELLER
 zetaglobal.net, 525, RESELLER
 zmaticoo.com, 5135195, RESELLER
+# Google AdMob, used by app versions before 1.0.1
+google.com, pub-3792779328473568, DIRECT, f08c47fec0942fa0
