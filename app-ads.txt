@@ -164,4 +164,4 @@ xandr.com, 7353, RESELLER
 zetaglobal.net, 525, RESELLER
 zmaticoo.com, 5135195, RESELLER
 # Google AdMob, used by app versions before 1.0.1
-google.com, pub-3792779328473568, DIRECT, f08c47fec0942fa0
+google.com, pub-3256039627815671, DIRECT, f08c47fec0942fa0
